@@ -72,3 +72,7 @@ http://www.ebay.co.uk/itm/USB-2-0-to-RS-485-RS485-RJ45-RJ-45-Serial-Adapter-Conv
 The pc-sintech adapter is known to ship with a faulty diode, the image links to a description on how to fix it
 ## Known good ethernet to RS485 ##
 USR-TCP-RS232-300
+
+## Known good wifi to RS485 ##
+
+USR-WIFI232-604 (http://www.usriot.com/Product/92) 
